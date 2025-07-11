@@ -17,6 +17,24 @@ navLinksItems.forEach(item => {
     });
 });
 
+const toggleSwitch = document.getElementById("theme-toggle");
+const html = document.documentElement;
+
+// Initial theme check
+if (localStorage.getItem("theme") === "dark") {
+  toggleSwitch.checked = true;
+  html.classList.add("dark-mode");
+} else {
+  html.classList.remove("dark-mode");
+}
+
+// Toggle dark/light mode
+toggleSwitch.addEventListener("change", () => {
+  html.classList.toggle("dark-mode");
+  localStorage.setItem("theme", toggleSwitch.checked ? "dark" : "light");
+});
+
+
 // Sticky Header
 window.addEventListener('scroll', () => {
     const header = document.querySelector('header');
