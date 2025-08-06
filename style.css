@@ -3,7 +3,8 @@
     --primary-color: #4a6cf7;
     --secondary-color: #6c757d;
     --dark-color: #212529;
-    --light-color: #f8f9fa;
+    /* --light-color: #f8f9fa; */
+    --light-color: #F5FFF5;
     --success-color: #28a745;
     --danger-color: #dc3545;
     --box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
