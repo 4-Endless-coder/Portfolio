@@ -3,7 +3,7 @@
 # 👨‍💻 Frontend Developer Portfolio 👨‍💻
 
 <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=4A6CF7&background=F5FFF500&center=true&width=600&lines=A+responsive+personal+portfolio;Built+with+Vanilla+JavaScript%2C+HTML%2and+CSS;Featuring+a+dark/light+mode+toggle" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=4A6CF7&background=F5FFF500&center=true&width=800&lines=A+responsive+personal+portfolio;Built+with+Vanilla+JavaScript%2C+HTML%2C+and+CSS;Featuring+a+dark/light+mode+toggle" alt="Typing SVG" />
 </a>
 
 <br>
